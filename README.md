@@ -42,7 +42,7 @@ This repository covers the following topics:
 Each topic includes implementation details and code examples, which can be found in the respective directories within this repository.
 
 ## Contributors 🤝
-- [vanilson muhongo] - [YourGitHubHandle](https://github.com/edsonwade)]
+- [vanilson muhongo] - [edsonwade](https://github.com/edsonwade)]
 
 ## License 📄
 This project is licensed under the [MIT License](link to license file).
