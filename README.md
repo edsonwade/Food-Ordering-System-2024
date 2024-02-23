@@ -41,6 +41,11 @@ This repository covers the following topics:
 ## Implementation 💻
 Each topic includes implementation details and code examples, which can be found in the respective directories within this repository.
 
+### To create modules images dependencies
+````
+ mvn com.github.ferstl:depgraph-maven-plugin:aggregate -DcreateImage=true -DreduceEdges=false -Dscope=compile "-Dincludes=code.vanilson.food-order*:*"
+
+````
 
 ## Contributors 🤝
 - [vanilson muhongo](https://github.com/edsonwade)
