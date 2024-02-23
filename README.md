@@ -47,4 +47,4 @@ Each topic includes implementation details and code examples, which can be found
 
 
 ## License 📄
-This project is licensed under the [MIT License](link to license file).
+This project is licensed under the [MIT License](LICENSE).
