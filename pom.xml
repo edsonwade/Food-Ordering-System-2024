@@ -44,7 +44,7 @@
             </dependency>
             <dependency>
                 <groupId>code.with.vanilson</groupId>
-                <artifactId>order-dataaccess</artifactId>
+                <artifactId>order-data-access</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
