@@ -117,3 +117,7 @@ dorder-service/order-domain/order-domain-core/src/main/java/code/with/vanilson/o
 border-service/order-domain/order-domain-core/src/main/java/code/with/vanilson/order/OrderItem.java,2\5\251cf939aad01bed33104342e9da262fe880a081
 ”
 dorder-service/order-domain/order-domain-core/src/main/java/code/with/vanilson/entity/TrackingId.java,6\e\6e0f14f25a6920f04dfbce189b7c0abdebb5cc08
+¡
+qorder-service/order-domain/order-domain-core/src/main/java/code/with/vanilson/exception/OrderDomainException.java,8\1\81b6834c06018e36a0a0757571eba9b359e680bc
+„
+Tcommon/common-domain/src/main/java/code/with/vanilson/exception/DomainException.java,e\c\ecf31e005070c7c7e9d948b4577db76dd6280aa1
