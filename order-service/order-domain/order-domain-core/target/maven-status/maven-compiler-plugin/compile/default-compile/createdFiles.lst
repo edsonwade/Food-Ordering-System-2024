@@ -1,1 +1,9 @@
 code\with\vanilson\Main.class
+code\with\vanilson\order\OrderItem$Builder.class
+code\with\vanilson\entity\TrackingId.class
+code\with\vanilson\order\OrderItem.class
+code\with\vanilson\entity\Address.class
+code\with\vanilson\order\Order.class
+code\with\vanilson\product\Product.class
+code\with\vanilson\order\Order$Builder.class
+code\with\vanilson\order\OrderItemId.class
