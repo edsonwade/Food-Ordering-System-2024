@@ -84,3 +84,6 @@ Acommon/common-domain/src/main/java/code/with/vanilson/BaseId.java,1\b\1bcf081c
 Lcommon/common-domain/src/main/java/code/with/vanilson/event/DomainEvent.java,4\2\42315fc1902b05fd10a88fd2a5f995e8d7fa03a2
 A
 common-domain.iml,3\6\360d07990fdb03758bae698247d7b7f32ce8dbb4
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
