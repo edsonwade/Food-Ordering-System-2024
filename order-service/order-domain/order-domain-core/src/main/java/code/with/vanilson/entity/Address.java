@@ -1,8 +1,6 @@
 package code.with.vanilson.entity;
 
-import lombok.EqualsAndHashCode;
 import lombok.Getter;
-import lombok.Setter;
 
 import java.util.UUID;
 

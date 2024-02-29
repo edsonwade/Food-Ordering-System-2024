@@ -2,9 +2,9 @@ package code.with.vanilson.product;
 
 import code.with.vanilson.Money.Money;
 import code.with.vanilson.entity.BaseEntity;
+import lombok.Getter;
 
-import java.util.Objects;
-
+@Getter
 public class Product extends BaseEntity<ProductId> {
     private Money productName;
     private Money price;
@@ -19,11 +19,4 @@ public class Product extends BaseEntity<ProductId> {
         this.price = price;
     }
 
-    public Money getProductName() {
-        return productName;
-    }
-
-    public Money getPrice() {
-        return price;
-    }
 }
