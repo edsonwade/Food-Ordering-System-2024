@@ -1,0 +1,11 @@
+code\with\vanilson\event\DomainEvent.class
+code\with\vanilson\Main.class
+code\with\vanilson\entity\BaseEntity.class
+code\with\vanilson\entity\AggregateRoot.class
+code\with\vanilson\product\ProductId.class
+code\with\vanilson\restuarant\RestaurantId.class
+code\with\vanilson\order\OrderId.class
+code\with\vanilson\BaseId.class
+code\with\vanilson\customer\CustomerId.class
+code\with\vanilson\Money\Money.class
+code\with\vanilson\order\OrderStatus.class
